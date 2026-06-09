@@ -1,3 +1,19 @@
+# python-pdf-to-img
+
+PDF 파일을 페이지별 이미지로 변환하는 CLI 도구입니다.
+각 PDF 페이지를 PNG/JPG/WebP 이미지 파일로 일괄 변환하며, 페이지 범위 지정, 해상도 설정, 여러 파일 일괄 처리를 지원합니다.
+
+## Requirements
+
+- Python 3.9 이상
+- PyMuPDF: `pip install PyMuPDF`
+
+## License
+
+MIT License — 자유롭게 사용, 수정, 배포 가능합니다.
+
+---
+
 ## 사용법
 
 ```bash
